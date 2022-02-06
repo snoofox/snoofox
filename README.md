@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 [![lain-wave.png](https://i.postimg.cc/5tZPddkH/lain-wave.png)](https://postimg.cc/jW46P9TK)
+
+I'm just another computer nerd who code various things in his free time.
 <!--
 **shoto-fx/shoto-fx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
