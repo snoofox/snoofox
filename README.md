@@ -13,5 +13,5 @@ Python, Javascript, HTML, CSS...
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](#)
-[![telegram](https://badges.aleen42.com/src/telegram.svg)](https://www.t.me/snoofox)
-[![twitter](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)](https://replit.com/@NateRiver7)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://www.t.me/snoofox)
+[![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)](https://replit.com/@NateRiver7)
